@@ -23,7 +23,6 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 - Fully functional gear shifting mechanism.
 - Designed for easy 3D printing and assembly.
 - Educational tool for learning and teaching automotive mechanics.
-- Customizable parts for different transmission types.
 
 ## Bill of Materials
 
