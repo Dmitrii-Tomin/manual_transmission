@@ -27,8 +27,14 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 ## Bill of Materials
 
 - 3D printed parts (STL files provided)
-- Bearings
-- Shafts
+- **11 608 bearings:** 8x22x7 mm.
+- **30 M4 screws 20mm:** flat head
+- **6 M4 screws 15mm:** flat head
+- **4 M3 screws 20mm:** flat head
+- **2 M3 screws 40mm:** flat head
+- **24 M3 nuts**
+- **18 M3 grub screws:** recommended - 6mm
+- **3 aluminium rods:** 8mm * 273mm* *(input)* , 267mm* *(output)* and 39mm* *(reverse idler)*.
 - Gears
 - Screws and nuts
 - Springs
