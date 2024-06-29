@@ -35,6 +35,7 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 - **24 M3 nuts**
 - **18 M3 grub screws:** recommended - 6mm
 - **3 aluminium rods:** 8mm * 273mm _(input)_ , 267mm _(output)_ and 39mm _(reverse idler)_.
+- **3 brass rods:** 4mm * 304mm
 - Gears
 - Screws and nuts
 - Springs
