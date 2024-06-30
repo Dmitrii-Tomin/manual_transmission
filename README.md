@@ -1,7 +1,7 @@
 # 3D Printed Manual Transmission Model
 
 ![1000013048](https://github.com/Dmitrii-Tomin/manual_transmition/assets/83939750/20480d8d-da3c-489d-b4a8-299e2fc936c5)
-![Uploading 1000013113.jpg…]()
+![1000013113](https://github.com/Dmitrii-Tomin/manual_transmition/assets/83939750/1047747b-b3b9-4668-9300-283becdfb352)
 
 
 
