@@ -10,8 +10,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Bill of Materials](#bill-of-materials)
-- [3D Printing Instructions](#3d-printing-instructions)
-- [Assembly Instructions](#assembly-instructions)
+- [Installation](#3d-printing-instructions)
 - [Operation](#operation)
 - [Contributing](#contributing)
 - [License](#license)
@@ -68,7 +67,7 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 - **1 shifter_shell**
 - **1 shifter_top_plate**
 - **1 ball_joint**
-- **1 shifter_stick:** (print horizontaly)
+- **1 shifter_stick:** (print horizontaly, 100% infill)
 - **1 shifter_knob**
 - **1 left_shifting_rod_connector**
 - **1 middle_shifting_rod_connector**
@@ -87,30 +86,27 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 - **3 end_cap**
 - **1 output_wheel**
 
-## 3D Printing Instructions
+## Installation
 
+**Preparation**
 1. Download the STL files from the `transmission_files` directory or from my Printables.
   ```sh
      https://www.printables.com/model/928009-manual-transmission-6-speed
   ```
 2. Use your preferred slicing software to prepare the files for your 3D printer.
+
+**Print**
 3. Recommended print settings:
    - Layer height: 0.2mm
    - Infill: 20%
    - Supports: Yes (where necessary)
-4. Print the parts using PLA or ABS filament for best results.
+4. Print the parts using PLA, ABS or any other filament your choice.
 
-## Assembly Instructions
+**Assemble**
+5. For a step-by-step visual guide, refer to the `manual_transmission_assembly_guide.pdf` file in the repository.
 
-Follow these steps to assemble the 3D printed manual transmission model:
-
-1. **Prepare Parts:** Clean and smooth all 3D printed parts. Ensure all support material is removed.
-2. **Install Bearings:** Press fit the bearings into their respective slots in the printed parts.
-3. **Assemble Gears:** Place the gears onto the shafts and secure them using screws and nuts.
-4. **Combine Subassemblies:** Follow the detailed assembly guide provided in the `Assembly_Guide.md` to combine all subassemblies into the final transmission model.
-5. **Final Adjustments:** Check for smooth operation and make any necessary adjustments.
-
-For a step-by-step visual guide, refer to the `Assembly_Guide.md` file in the repository.
+**Modify**
+6. If you want to modify something you can download the `manual_transmission_fusion.f3d` file and do your modifications in Fusion.
 
 ## Operation
 
@@ -126,11 +122,7 @@ This model is an excellent tool for demonstrating the principles of manual trans
 
 Contributions are welcome! If you have suggestions for improvements or have created additional parts, feel free to fork this repository and submit a pull request. Please ensure your contributions adhere to the existing design standards and documentation format.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
 
-We hope you enjoy building and using this 3D printed manual transmission model. Happy printing!
+I hope you enjoy building and using this 3D printed manual transmission model. Happy printing!
 
