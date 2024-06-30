@@ -13,7 +13,6 @@
 - [Installation](#3d-printing-instructions)
 - [Operation](#operation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -90,7 +89,7 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 
 **Preparation**
 
-1. Download the STL files from the `transmission_files` directory or from my Printables.
+1. Download the STL files from the `transmission_parts` directory or from my Printables.
   ```sh
      https://www.printables.com/model/928009-manual-transmission-6-speed
   ```
