@@ -29,7 +29,6 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 
 ## Bill of Materials
 
-- 3D printed parts (STL files provided)
 - **11 608 bearings:** 8x22x7 mm.
 - **30 M4 screws 20mm:** flat head
 - **6 M4 screws 15mm:** flat head
@@ -90,7 +89,10 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 
 ## 3D Printing Instructions
 
-1. Download the STL files from the `STL_Files` directory.
+1. Download the STL files from the `transmission_files` directory or from my Printables.
+  ```sh
+     https://www.printables.com/model/928009-manual-transmission-6-speed
+  ```
 2. Use your preferred slicing software to prepare the files for your 3D printer.
 3. Recommended print settings:
    - Layer height: 0.2mm
