@@ -36,7 +36,7 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 - **18 M3 grub screws:** recommended - 6mm
 - **3 aluminium rods:** 8mm * 273mm _(input)_ , 267mm _(output)_ and 39mm _(reverse idler)_.
 - **3 brass rods:** 4mm * 304mm
-- 1 [ _"arduino motor"_](https://www.amazon.com/dp/B08M45JWMD/ref=twister_B0BC2ZJNBC?_encoding=UTF8&th=1)
+- **1 [_"arduino motor"_]**(https://www.amazon.com/dp/B08M45JWMD/ref=twister_B0BC2ZJNBC?_encoding=UTF8&th=1)
 - 1 switch
 - 1 battery holder
 - 2 li-ion batteries
