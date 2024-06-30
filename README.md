@@ -89,6 +89,7 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 ## Installation
 
 **Preparation**
+
 1. Download the STL files from the `transmission_files` directory or from my Printables.
   ```sh
      https://www.printables.com/model/928009-manual-transmission-6-speed
@@ -96,6 +97,7 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 2. Use your preferred slicing software to prepare the files for your 3D printer.
 
 **Print**
+
 3. Recommended print settings:
    - Layer height: 0.2mm
    - Infill: 20%
@@ -103,9 +105,11 @@ Welcome to the 3D Printed Manual Transmission Model project! This project provid
 4. Print the parts using PLA, ABS or any other filament your choice.
 
 **Assemble**
+
 5. For a step-by-step visual guide, refer to the `manual_transmission_assembly_guide.pdf` file in the repository.
 
 **Modify**
+
 6. If you want to modify something you can download the `manual_transmission_fusion.f3d` file and do your modifications in Fusion.
 
 ## Operation
