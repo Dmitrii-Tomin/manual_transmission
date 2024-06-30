@@ -3,6 +3,7 @@
 ![1000013048](https://github.com/Dmitrii-Tomin/manual_transmition/assets/83939750/20480d8d-da3c-489d-b4a8-299e2fc936c5)
 ![1000013113](https://github.com/Dmitrii-Tomin/manual_transmition/assets/83939750/1047747b-b3b9-4668-9300-283becdfb352)
 
+Video: https://youtube.com/shorts/xXizu3-S0T4
 
 
 ## Table of Contents
