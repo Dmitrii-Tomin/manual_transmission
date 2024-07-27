@@ -17,7 +17,7 @@ Video: https://youtube.com/shorts/xXizu3-S0T4
 
 ## Introduction
 
-Welcome to the 3D Printed Manual Transmission Model project! This project provides the design files and instructions to create a fully functional model of a manual transmission using 3D printing technology. The model demonstrates the inner workings of a real manual transmission, allowing enthusiasts and students to understand and visualize its mechanics.
+Welcome to the **3D Printed Manual Transmission Model** project! This project provides the design files and instructions to create a **fully functional model of a manual transmission** using 3D printing. The model **demonstrates the inner workings** of a real manual transmission, allowing **enthusiasts and students to understand and visualize its mechanics.**
 
 ## Features
 
